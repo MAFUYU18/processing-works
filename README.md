@@ -41,6 +41,8 @@ fill(a,b,c);
 11/28/2022
 homework2
 
+introduction:Mondrian style, random color blocks
+
 void setup()
 {
   size(800,800);
